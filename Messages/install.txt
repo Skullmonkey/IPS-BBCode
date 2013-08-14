@@ -1,0 +1,72 @@
+Intro
+=====
+Thank you for installing IPS BBCode. It was made specifically for Invision Powered products to help increase productivity for those who do not like to use the editor.
+
+Contribute
+==========
+To contribute to the project, you have a couple of options:
+
+1. Fork the project, add your codes, and send a pull request for review.
+2. Open a ticket and categorize it as "Add string": https://github.com/Skullmonkey/IPS-BBCode/issues/new
+
+Current tab completion list:
+============================
+Format: Key => Output
+
+acronym    => [acronym=${1:laugh out loud}]${2:lol}[/acronym]
+b          => [b]$1[/b]
+background => [background=${1:color}]${2:content}[/background]
+bold       => [b]$1[/b]
+code       => [code]$1[/code]
+color      => [color=$1]$2[/color]
+email      => [email=${1:email@domain.com}]${2:text to display}[/email]
+hr         => [hr]
+i          => [i]$1[/i]
+img        => [img]$1[/img]
+member     => [member=${1:memberName}]
+s          => [s]$1[/s]
+size       => [size=$1]$2[/size]
+sub        => [sub]$1[/sub]
+sup        => [sup]$1[/sup]
+twitter    => [twitter]${1:twitter name}[/twitter]
+u          => [u]$1[/u]
+url        => [url=$1]$2[/url]
+quote      => [quote]$1[/quote]
+spoiler    => [spoiler]$1[/spoiler]
+
+// Alignment
+center => [center]$1[/center]
+indent => [indent=${1:(number of px)}]$2[/indent]
+left   => [left]$1[/left]
+right  => [right]$1[/right]
+
+// Background Colors
+bgred    => [background=red]$1[/background]
+bgorange => [background=orange]$1[/background]
+bgyellow => [background=yellow]$1[/background]
+bggreen  => [background=green]$1[/background]
+bgblue   => [background=blue]$1[/background]
+bgindigo => [background=indigo]$1[/background]
+bgviolet => [background=violet]$1[/background]
+bgpurple => [background=purple]$1[/background]
+bgwhite  => [background=white]$1[/background]
+bgblack  => [background=black]$1[/background]
+
+// Colors
+red    => [color=red]$1[/color]
+orange => [color=orange]$1[/color]
+yellow => [color=yellow]$1[/color]
+green  => [color=green]$1[/color]
+blue   => [color=blue]$1[/color]
+indigo => [color=indigo]$1[/color]
+violet => [color=violet]$1[/color]
+purple => [color=purple]$1[/color]
+white  => [color=white]$1[/color]
+black  => [color=black]$1[/color]
+
+// Code blocks and languages
+php  => [code=php]$1[/code]
+css  => [code=css]$1[/code]
+html => [code=html]$1[/code]
+sql  => [code=sql]$1[/code]
+xml  => [code=xml]$1[/xml]
