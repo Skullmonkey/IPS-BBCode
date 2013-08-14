@@ -1,0 +1,64 @@
+{
+  "scope": "source.ipsbbcode - source - meta.tag, punctuation.definition.tag.begin",
+
+  "completions":
+  [
+    { "trigger": "acronym", "contents": "[acronym=${1:laugh out loud}]${2:lol}[/acronym]" },
+    { "trigger": "b", "contents": "[b]$1[/b]" },
+    { "trigger": "background", "contents": "[background=${1:color}]${2:content}[/background]" },
+    { "trigger": "bold", "contents": "[b]$1[/b]" },
+    { "trigger": "code", "contents": "[code]$1[/code]" },
+    { "trigger": "color", "contents": "[color=$1]$2[/color]" },
+    { "trigger": "email", "contents": "[email=${1:email@domain.com}]${2:text to display}[/email]" },
+    { "trigger": "hr", "contents": "[hr]" },
+    { "trigger": "i", "contents": "[i]$1[/i]" },
+    { "trigger": "img", "contents": "[img]$1[/img]" },
+    { "trigger": "member", "contents": "[member=${1:memberName}]" },
+    { "trigger": "s", "contents": "[s]$1[/s]" },
+    { "trigger": "size", "contents": "[size=$1]$2[/size]" },
+    { "trigger": "sub", "contents": "[sub]$1[/sub]" },
+    { "trigger": "sup", "contents": "[sup]$1[/sup]" },
+    { "trigger": "twitter", "contents": "[twitter]${1:twitter name}[/twitter]" },
+    { "trigger": "u", "contents": "[u]$1[/u]" },
+    { "trigger": "url", "contents": "[url=$1]$2[/url]" },
+    { "trigger": "quote", "contents": "[quote]$1[/quote]" },
+    { "trigger": "spoiler", "contents": "[spoiler]$1[/spoiler]" },
+
+    // Alignment
+    { "trigger": "center", "contents": "[center]$1[/center]" },
+    { "trigger": "indent", "contents": "[indent=${1:(number of px)}]$2[/indent]" },
+    { "trigger": "left", "contents": "[left]$1[/left]" },
+    { "trigger": "right", "contents": "[right]$1[/right]" },
+
+    // Background Colors
+    { "trigger": "bgred", "contents": "[background=red]$1[/background]" },
+    { "trigger": "bgorange", "contents": "[background=orange]$1[/background]" },
+    { "trigger": "bgyellow", "contents": "[background=yellow]$1[/background]" },
+    { "trigger": "bggreen", "contents": "[background=green]$1[/background]" },
+    { "trigger": "bgblue", "contents": "[background=blue]$1[/background]" },
+    { "trigger": "bgindigo", "contents": "[background=indigo]$1[/background]" },
+    { "trigger": "bgviolet", "contents": "[background=violet]$1[/background]" },
+    { "trigger": "bgpurple", "contents": "[background=purple]$1[/background]" },
+    { "trigger": "bgwhite", "contents": "[background=white]$1[/background]" },
+    { "trigger": "bgblack", "contents": "[background=black]$1[/background]" },
+
+    // Colors
+    { "trigger": "red", "contents": "[color=red]$1[/color]" },
+    { "trigger": "orange", "contents": "[color=orange]$1[/color]" },
+    { "trigger": "yellow", "contents": "[color=yellow]$1[/color]" },
+    { "trigger": "green", "contents": "[color=green]$1[/color]" },
+    { "trigger": "blue", "contents": "[color=blue]$1[/color]" },
+    { "trigger": "indigo", "contents": "[color=indigo]$1[/color]" },
+    { "trigger": "violet", "contents": "[color=violet]$1[/color]" },
+    { "trigger": "purple", "contents": "[color=purple]$1[/color]" },
+    { "trigger": "white", "contents": "[color=white]$1[/color]" },
+    { "trigger": "black", "contents": "[color=black]$1[/color]" },
+
+    // Code blocks and languages
+    { "trigger": "php", "contents": "[code=php]$1[/code]" },
+    { "trigger": "css", "contents": "[code=css]$1[/code]" },
+    { "trigger": "html", "contents": "[code=html]$1[/code]" },
+    { "trigger": "sql", "contents": "[code=sql]$1[/code]" },
+    { "trigger": "xml", "contents": "[code=xml]$1[/xml]" }
+  ]
+}
