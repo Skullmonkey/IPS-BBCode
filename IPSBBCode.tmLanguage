@@ -17,5 +17,7 @@
       <string>IPS BBCode</string>
     <key>scopeName</key>
       <string>source.ipsbbcode</string>
+    <key>uuid</key>
+      <string>3bcbf77a-877d-417a-b4a1-8bb9b8c68157</string>
   </dict>
 </plist>
