@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[acronym=${1:laugh out loud}]${2:lol}[/acronym]]]>
+    </content>
+    <tabTrigger>acronym</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Acronym BBCode</description>
+</snippet>

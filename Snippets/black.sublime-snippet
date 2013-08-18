@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[color=black]${1:$SELECTION}[/color]]]>
+    </content>
+    <tabTrigger>black</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Black Text</description>
+</snippet>

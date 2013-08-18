@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[color=green]${1:$SELECTION}[/color]]]>
+    </content>
+    <tabTrigger>green</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Green Text</description>
+</snippet>

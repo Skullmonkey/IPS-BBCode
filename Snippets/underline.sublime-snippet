@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[u]${1:$SELECTION}[/u]]]>
+    </content>
+    <tabTrigger>u</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Underline BBCode</description>
+</snippet>

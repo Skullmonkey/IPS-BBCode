@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[center]${1:$SELECTION}[/center]]]>
+    </content>
+    <tabTrigger>center</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Center Text BBCode</description>
+</snippet>

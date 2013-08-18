@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[member=${1:memberName}]]]>
+    </content>
+    <tabTrigger>member</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Member BBCode</description>
+</snippet>

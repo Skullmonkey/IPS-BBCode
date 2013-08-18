@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[b]${1:$SELECTION}[/b]]]>
+    </content>
+    <tabTrigger>bold</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Bold BBCode</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[sup]${1:$SELECTION}[/sup]]]>
+    </content>
+    <tabTrigger>sup</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Super Text BBCode</description>
+</snippet>

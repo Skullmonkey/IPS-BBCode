@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[code=css]${1:$SELECTION}[/code]]]>
+    </content>
+    <tabTrigger>css</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert CSS Code Block</description>
+</snippet>

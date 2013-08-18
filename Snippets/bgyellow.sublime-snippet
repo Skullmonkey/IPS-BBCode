@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[background=yellow]${1:$SELECTION}[/background]]]>
+    </content>
+    <tabTrigger>bgyellow</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert BG Yellow BBCode</description>
+</snippet>

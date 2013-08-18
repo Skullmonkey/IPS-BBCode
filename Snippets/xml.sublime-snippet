@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[code=xml]${1:$SELECTION}[/xml]]]>
+    </content>
+    <tabTrigger>xml</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert XML Code Block</description>
+</snippet>

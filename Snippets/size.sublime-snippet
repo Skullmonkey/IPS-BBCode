@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[size=${1:num in px}]${2:$SELECTION}[/size]]]>
+    </content>
+    <tabTrigger>size</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Font Size BBCode</description>
+</snippet>

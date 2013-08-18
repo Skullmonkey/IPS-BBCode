@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[left]${1:$SELECTION}[/left]]]>
+    </content>
+    <tabTrigger>left</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Left Align BBCode</description>
+</snippet>

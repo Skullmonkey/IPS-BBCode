@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[email=${1:email@domain.com}]${2:text to display}[/email]]]>
+    </content>
+    <tabTrigger>email</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Email BBCode</description>
+</snippet>

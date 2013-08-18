@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[quote]${1:$SELECTION}[/quote]]]>
+    </content>
+    <tabTrigger>quote</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Quote BBCode</description>
+</snippet>

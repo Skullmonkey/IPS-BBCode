@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+      <![CDATA[[background=${1:color}]${2:$SELECTED}[/background]]]>
+    </content>
+    <tabTrigger>background</tabTrigger>
+    <scope>source.ipsbbcode</scope>
+    <description>Insert Background BBCode</description>
+</snippet>
