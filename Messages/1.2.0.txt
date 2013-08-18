@@ -1,0 +1,9 @@
++Added autocompletions for all available snippets. (BBCode completions will pop up as you are typing.)
++Added shortcuts. :ist can be found here: https://github.com/Skullmonkey/IPS-BBCode/wiki
+*Converted Completions to snippets.
+
+
+Upcoming releases:
+==================
+-Style tags
+-Add styles within code blocks to match language.
