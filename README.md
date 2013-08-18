@@ -6,6 +6,7 @@ This is a IPS Specific BBCode setup. Most of the default codes are included and 
 
 ### Installation
 With package control: Search for `IPS BBCode` and install. ([Install Package Control][4])
+
 Manual: Download the latest package from [here][1]. Extract to (Sublime Text Directory)/Packages/IPS BBCode/ (Folder name must be exact.)
 
 ### Available Trigger Completions
